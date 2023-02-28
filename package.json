@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalPortfolio",
   "version": "1.0.0",
-  "homepage": "http://bryanongjx.github.io/personal-website",
+  "homepage": "https://bryanongjx.github.io/personal-website/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
